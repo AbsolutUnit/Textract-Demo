@@ -23,7 +23,7 @@ class Conversion():
     typeof = ""
 
     def main(self, bucket_name, document_name):
-        self.arn = 'arn:aws:iam::125223209031:role/service-role/pdfExtractorRole'
+        self.arn = 'insert arn'
         self.document_name = document_name
         self.typeof = "Analysis"
 
